@@ -11,3 +11,9 @@ https://stackoverflow.com/questions/4576909/understanding-canvas-and-surface-con
 
 
 https://www.ssaurel.com/blog/create-a-running-man-game-animation-on-android/
+
+
+Understanding Windows in Android SurfaceView and TextureView
+
+https://stackoverflow.com/questions/9451755/what-is-an-android-window
+
