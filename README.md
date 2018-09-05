@@ -29,3 +29,9 @@ https://www.youtube.com/watch?v=CuvVpsFc77w
 for wifi (p2p) 
 ----------
 https://developer.android.com/training/connect-devices-wirelessly/wifi-direct
+
+
+for Bluetooth 
+--------------
+
+https://www.thedroidsonroids.com/blog/bluetooth-classic-vs-bluetooth-low-energy-on-android-hints-implementation-steps
