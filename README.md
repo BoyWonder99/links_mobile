@@ -24,3 +24,8 @@ https://source.android.com/devices/camera/camera3_requests_hal
 
 https://www.youtube.com/watch?v=KhqGphh6KPE
 https://www.youtube.com/watch?v=CuvVpsFc77w
+
+
+for wifi (p2p) 
+----------
+https://developer.android.com/training/connect-devices-wirelessly/wifi-direct
